@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ocker build -t ocr-service .
+docker build -t ocr-service .
